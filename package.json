@@ -8,7 +8,7 @@
         "dev": "next",
         "devb": "next build && next export",
         "build": "next build",
-        "start": "next start"
+        "start": "next start -p $PORT"
     },
     "author": "",
     "license": "ISC",
