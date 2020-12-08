@@ -93,7 +93,7 @@ Index.getInitialProps = async () => {
                 // image: "../static/starbucks.PNG",
                 image: "https://i.imgur.com/Wmf8C5q.png",
                 description:
-                    "The Starbucks Coffee is necessary and keeps mental fatique elevated with stress inhibitors proactive than reactive. Coffee was also a common form of medicine used to treat confusion.",
+                    "The Starbucks Coffee is necessary and keeps mental fatique elevated with stress inhibitors are more proactive than reactive. Coffee was also a common form of medicine used to treat confusion and can be mistaken as cocaine in liquid form.",
             } as IProduct,
         ],
     };
